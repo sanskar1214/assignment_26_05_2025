@@ -58,6 +58,9 @@ import java.util.*;
             // Print the result on the console as well
             System.out.println("Vowel count: " + vowelCount);
             System.out.println("Words starting with a vowel: " + wordsStartingWithVowel);
+            System.out.println("just for change");
+            System.out.println("just f change");
+            System.out.println("just fr change");
         }
     }
 
